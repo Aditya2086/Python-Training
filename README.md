@@ -60,9 +60,9 @@
  
  ## Day 09 - Topics Covered In Python Training :-
  
- - ## 1. Program to find largest no.from a list without max method.
- - ## 2. Program to find index position of given element in the list without using index method.
- - ## 3. Find the middle element of list.
- - ## 4. American Keyboard Row problem
- - ## 5. Integer to Roman number conversion
- - ## 6. Program to find the first repeating character in a string.
+ - ### 1. Program to find largest no.from a list without max method.
+ - ### 2. Program to find index position of given element in the list without using index method.
+ - ### 3. Find the middle element of list.
+ - ### 4. American Keyboard Row problem
+ - ### 5. Integer to Roman number conversion
+ - ### 6. Program to find the first repeating character in a string.
