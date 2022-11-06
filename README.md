@@ -133,3 +133,8 @@
 
 ## Day 13 - Topics Covered In Python Training :-
 
+- ### 10 Programs Asked In Different Interviews.
+- ### Different Features Of Version :-
+  ### (i) 3.8
+  ### (ii) 3.9
+  ### (iii) 3.10
