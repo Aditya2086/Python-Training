@@ -66,3 +66,70 @@
  - ### 4. American Keyboard Row problem
  - ### 5. Integer to Roman number conversion
  - ### 6. Program to find the first repeating character in a string.
+
+## Day 10 - Topics Covered In Python Training :-
+
+- ### Class & Object Definitions.
+- ### Creation Of A Class in Python.
+- ### Difference Between A Function & A Method.
+- ### Object Creation.
+- ### Accessing Class Attributes Using getattr( ) & setattr( ) methods.
+- ### Deleting Class Attributes Using delattr( ) Method.
+- ### Need Of Self Function.
+- #### Initializing An Attribute Of A Class Using init method.
+- ### Inheritance :-
+  ### (i) Multiple Inheritance.
+  ### (ii) Method Resolution Order (mro).
+- ### Concept Of Encapsulation & Access Specifiers in Python :-
+  ### (i) Public
+  ### (ii) Private
+  ### (iii) Protected.
+- ### Name Mangling.
+- ### Why Python is Not A Pure Object-Oriented Programming Language ?
+- ### Concept Of Polymorphism :-
+  ### (i) Method Overloading.
+  ### (ii) Method Overriding.
+  ### (iii) Function Overloading.
+  ### (iv) Operator Overloading.
+  
+## Day 11 - Topics Covered In Python Training :-
+
+- ### Duck Typing.
+- ### Monking Patching.
+- ### Destructors.
+- ### Abstraction.
+- ### Inheritance.
+- ### Various Methods in Python :-
+  ### (i) Instance Method.
+  ### (ii) Class Method.
+  ### (iii) Static Method.
+- ### Numpy Module :-
+  ### (i) Creation of Single and Multi-Dimensional Arrays.
+  ### (ii) Reshaping the Arrays.
+- ### Various Array Methods :-
+  ### (i) Zeros
+  ### (ii) Ones
+  ### (iii) Eye
+  ### (iv) Diag
+  ### (v) linalg.det
+  ### (vi) linalg.inv
+  ### (vii) Sum
+- ### Conversion Of 'n' Dimensional Arrays into Single Dimensional Array :-
+  ### (i) flatten( ) Method.
+  ### (ii) ravel( ) Method.
+- ### Some Operations on Matrices.
+- ### Broadcast.
+- ### Drawbacks of Numpy Module.
+- ### Textual Representation Of An Object.
+  ### (i) repr Method.
+  ### (ii) str Method.
+- ### Why Mutable Data Structure Shouldn't Be Used As Function Parameters ?
+
+## Day 12 - Topics Covered In Python Training :-
+
+- ### LBYL vs EAFP
+- ### Iterator And Iterables
+- ### Regular Expression
+
+## Day 13 - Topics Covered In Python Training :-
+
